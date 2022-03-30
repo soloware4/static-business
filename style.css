@@ -1,3 +1,15 @@
+*{
+  margin:0;
+  padding:0;
+}
+.header{
+  min-height: 100vh;
+  width: 100%;background-image: linear-gradient(rgba(4,9,30,0.7),url(downloads/clothes.jpeg);
+    back-position:center;
+    background-size: cover;
+    position:relative;
+    
+}
 body {
     margin: 60px auto;
     width: 70%;
@@ -22,6 +34,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  Background-color:Red
 }
 p {
     font-size: 1.1em;
